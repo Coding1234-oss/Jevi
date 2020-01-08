@@ -1,1 +1,1 @@
-web: node ./app.js Bellicosa https://entrytest1.herokuapp.com
+web: node ./app.js Thoratica https://entrytest.herokuapp.com
